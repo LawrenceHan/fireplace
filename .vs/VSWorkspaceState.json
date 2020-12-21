@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\env",
+    "\\env\\Lib",
+    "\\env\\Lib\\site-packages",
+    "\\env\\Lib\\site-packages\\setuptools",
+    "\\env\\Scripts",
+    "\\fireplace",
+    "\\fireplace\\cards",
+    "\\tests"
+  ],
+  "SelectedNode": "\\tests\\test_wog.py",
+  "PreviewInSolutionExplorer": false
+}
